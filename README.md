@@ -1,5 +1,6 @@
 # Qarachay_Malqar_translator_python
- The first translator on qarachay_malqar language
+ The first translator on qarachay_malqar language.
+ 
 Authors: Bogdan Tewnalany, Ali Berberov
 
 As a base we took mbart-50 model and trained it on 27235 parallel sentences between russian and Qarachay-Malqar languages. It is not enough for good prediction, nevertheless, there is some result. 
