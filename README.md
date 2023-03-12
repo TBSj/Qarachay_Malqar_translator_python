@@ -1,5 +1,5 @@
-# Qarachay_Malqar_translator_python
- The first translator on qarachay_malqar language.
+# Qarachay Malqar translator python
+## The first translator on qarachay_malqar language.
  
 Authors: Bogdan Tewnalany, Ali Berberov
 
