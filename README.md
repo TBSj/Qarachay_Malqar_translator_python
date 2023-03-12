@@ -1,5 +1,4 @@
-# Qarachay Malqar translator python
-## The first translator on qarachay_malqar language.
+# The first neural machine translation system for the Qarachay Malqar language on python
  
 Authors: Bogdan Tewnalany, Ali Berberov
 
