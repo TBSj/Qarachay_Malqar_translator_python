@@ -15,6 +15,6 @@ Where to use:
 
 https://huggingface.co/spaces/TSjB/QM_RU_translator
 
-https://tsjb-qm-ru-translator.hf.space/?
+https://tsjb-qm-ru-translator.hf.space/
 
 Telegram: https://t.me/QMKochBot 
