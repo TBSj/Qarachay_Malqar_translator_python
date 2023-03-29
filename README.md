@@ -8,9 +8,13 @@ Nowdays, we are collecting more sentences to improve our result. And, I hope, it
 
 
 Model for translation from russian to qarachay-malqar: https://huggingface.co/TSjB/mbart-large-52-ru-qm-v1
+
 Model for translation from qarachay-malqar to russian: https://huggingface.co/TSjB/mbart-large-52-qm-ru-v1
 
 Where to use:
+
 https://huggingface.co/spaces/TSjB/QM_RU_translator
+
 https://tsjb-qm-ru-translator.hf.space/?
+
 Telegram: https://t.me/QMKochBot 
