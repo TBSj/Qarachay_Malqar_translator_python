@@ -18,6 +18,6 @@ https://tsjb-qm-ru-translator.hf.space/
 Telegram: https://t.me/QMKochBot 
 
 Authors telegram:  
-Bogdan: https://t.me/bogdan_tewnalany
+Bogdan: https://t.me/bogdan_tewnalany  
 Ali: https://t.me/ali_berberov
 
